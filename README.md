@@ -2,7 +2,7 @@
 
 > [Permainan simpel untuk mengetahui hex sebuah warna.]
 
-![Tampilan Proyek](assets/screenshot.png)
+![Tampilan Proyek](image.png)
 ## 💻 Teknologi
 
   **Clone repository ini**
