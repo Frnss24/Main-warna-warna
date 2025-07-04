@@ -6,8 +6,8 @@
 ## 💻 Teknologi
 
   **Clone repository ini**
-    ```sh
-    git clone [https://github.com/](https://github.com/)[username-anda]/[nama-repo-anda].git
+    '''
+    git clone https://github.com/Frnss24/Main-warna-warna.git
     ```
 
 Dibuat oleh **[Fransiskus]**.
